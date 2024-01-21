@@ -1,0 +1,29 @@
+[
+ {
+  "productID": 1,
+  "title": "Titulo Actualizado !!",
+  "description": "Este es un producto prueba1",
+  "price": 252,
+  "thumbnail": "Sin imagen",
+  "code": "abc12311",
+  "stock": 251
+ },
+ {
+  "productID": 3,
+  "title": "producto prueba3",
+  "description": "Este es un producto prueba3",
+  "price": 2003,
+  "thumbnail": "Sin imagen",
+  "code": "abc12333",
+  "stock": 253
+ },
+ {
+  "productID": 4,
+  "title": "producto prueba4",
+  "description": "Este es un producto prueba4",
+  "price": 2004,
+  "thumbnail": "Sin imagen",
+  "code": "abc12334",
+  "stock": 253
+ }
+]
